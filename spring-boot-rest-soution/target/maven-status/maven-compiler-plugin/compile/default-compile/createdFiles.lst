@@ -1,0 +1,9 @@
+algo/trader/domain/Currency.class
+algo/trader/domain/LimitOrder.class
+algo/trader/domain/Side.class
+algo/trader/security/config/WebSecurityConfig.class
+algo/trader/domain/MarketOrder.class
+algo/trader/endpoints/OrderService.class
+algo/trader/endpoints/CurrencyService.class
+algo/trader/domain/Order.class
+algo/trader/Application.class

@@ -1,0 +1,5 @@
+/home/java/java_courses/fidelity-workshop/spring-boot-rest/src/main/java/algo/trader/domain/MarketOrder.java
+/home/java/java_courses/fidelity-workshop/spring-boot-rest/src/main/java/algo/trader/domain/Order.java
+/home/java/java_courses/fidelity-workshop/spring-boot-rest/src/main/java/algo/trader/domain/Currency.java
+/home/java/java_courses/fidelity-workshop/spring-boot-rest/src/main/java/algo/trader/domain/LimitOrder.java
+/home/java/java_courses/fidelity-workshop/spring-boot-rest/src/main/java/algo/trader/domain/Side.java
